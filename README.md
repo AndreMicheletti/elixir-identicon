@@ -1,6 +1,6 @@
 # Identicon
 
-Small program to create "Identity Icons" based on a string input
+Elixir program to create "Identity Icons" based on a string input
 
 This project is part of [The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/share/101WuiAkYfcFZRRXg=/) by [@StephenGrider](https://github.com/StephenGrider)
 
